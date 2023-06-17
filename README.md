@@ -27,10 +27,6 @@ Once the chatbot is running, you can interact with it through the provided user 
 
 Contributions to SerenityNow are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue on the GitHub repository.
 
-## License
-
-SerenityNow is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 This project makes use of the following technologies and libraries:
